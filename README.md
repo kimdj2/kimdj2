@@ -21,6 +21,9 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimdj2&theme=blueberry" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kimdj2&theme=blueberry" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimdj2&theme=solarized" alt="GitHub Streak" />
+  <div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kimdj2&theme=solarized" alt="Repos per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimdj2&theme=solarized" alt="Stats" />
+  </div>
 </div>
