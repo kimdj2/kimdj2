@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91E5&center=true&vCenter=true&width=435&lines=Hello!+I'm+kimdj2;Code+with+Rust,+Ruby,+and+Scala;Welcome+to+my+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91E5&center=true&vCenter=true&width=435&lines=Hello!+I'm+Bondee;Code+with,+Ruby,+Scala,+Go,+and+Rust;Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,9 +18,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimdj2&show_icons=true&theme=radical&count_private=true" alt="kimdj2's github stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimdj2&theme=radical&hide_border=true" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdj2&layout=compact&theme=radical&hide=html,css" alt="Top Langs" height="180"/>
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kimdj2&theme=radical" alt="Most Commit Language" />
 </div>
 
 <div align="center">
