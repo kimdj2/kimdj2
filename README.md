@@ -24,8 +24,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimdj2&theme=blueberry" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kimdj2&theme=blueberry" alt="Most Commit Language" />
 </div>
-
-<div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=kimdj2&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
-</div>
